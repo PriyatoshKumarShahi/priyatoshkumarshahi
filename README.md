@@ -2,22 +2,14 @@
 
 <h3 align="center">Full Stack Developer | MERN Stack | Problem Solver 🚀</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=priyatoshkumarshahi&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="160" style="border-radius:50%" />
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=Priyatosh&backgroundColor=1e1e2e" width="160"/>
 </p>
-
 <p align="center">
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Priyatosh&backgroundColor=1e1e2e" width="160"/>
-</p>
-
-<p align="center">
-<b>Full Stack Developer • MERN Stack • Competitive Programmer</b>
+<img src="https://komarev.com/ghpvc/?username=priyatoshkumarshahi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
