@@ -3,7 +3,8 @@
 <h4 align="center">Building scalable web applications and learning modern technologies 🚀</h4>
 
 <div align="center">
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Priyatosh" width="200px"/>
+<img src="https://api.dicebear.com/7.x/personas/svg?seed=Priyatosh&backgroundColor=b6e3f4" width="200px"/>
+
 </div>
 
 <p align="center">
