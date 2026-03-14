@@ -100,7 +100,7 @@ Contributed to development of web solutions for competitive programming events.
 - 🎯 **Hacktoberfest Contributor**
 - 🌱 Open Source Participant
 
-[![Holopin badges](https://holopin.me/priyatoshkumarshahi#badges)](https://www.holopin.io/@priyatoshkumarshahi)
+[![Holopin badges](https://holopin.me/priyatoshkumarshahi)](https://holopin.io/@priyatoshkumarshahi)
 
 ---
 
