@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+Stack+Engineer;Open+Source+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Priyatosh Kumar</h1>
 
 <h3 align="center">
@@ -43,14 +45,9 @@ https://www.codechef.com/users/cse23_b0101148
 <img src="https://skillicons.dev/icons?i=js,java,html,css"/>
 </p>
 
-### Frontend
+### MERN
 <p>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=react,node.js,express"/>
 </p>
 
 ### Database
@@ -97,17 +94,6 @@ Features:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyatoshkumarshahi&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyatoshkumarshahi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -117,31 +103,7 @@ Features:
 
 </p>
 
----
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyatoshkumarshahi&theme=tokyo-night"/>
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcode-stats-six.vercel.app/?username=PriyatoshKumar&theme=dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyatoshkumarshahi&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -162,12 +124,6 @@ Features:
 </a>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/priyatoshkumarshahi/priyatoshkumarshahi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
