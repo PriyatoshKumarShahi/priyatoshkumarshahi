@@ -100,15 +100,13 @@ Contributed to development of web solutions for competitive programming events.
 - 🎯 **Hacktoberfest Contributor**
 - 🌱 Open Source Participant
 
-[![Holopin badges](https://holopin.me/priyatoshkumarshahi)](https://www.holopin.io/@priyatoshkumarshahi)
+[![Holopin badges](https://holopin.me/priyatoshkumarshahi#badges)](https://www.holopin.io/@priyatoshkumarshahi)
 
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=priyatoshkumarshahi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyatoshkumarshahi&layout=compact&theme=tokyonight"/>
 
@@ -138,10 +136,3 @@ Contributed to development of web solutions for competitive programming events.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
----
-
-💡 *I enjoy building real world applications and continuously improving my development skills.*
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
