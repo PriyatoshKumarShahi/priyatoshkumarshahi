@@ -1,15 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+Stack+Engineer;Open+Source+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Priyatosh Kumar</h1>
 
-<h3 align="center">
-Full Stack Developer | MERN Stack | Problem Solver 🚀
-</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver 🚀</h3>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=priyatoshkumarshahi">
 <img src="https://komarev.com/ghpvc/?username=priyatoshkumarshahi&label=Profile%20views&color=0e75b6&style=flat"/>
-</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="160" style="border-radius:50%" />
+</p>
+
+<p align="center">
+<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Priyatosh&backgroundColor=1e1e2e" width="160"/>
+</p>
+
+<p align="center">
+<b>Full Stack Developer • MERN Stack • Competitive Programmer</b>
 </p>
 
 ---
@@ -30,34 +38,34 @@ Full Stack Developer | MERN Stack | Problem Solver 🚀
 
 # 🚀 Coding Profiles
 
-### LeetCode
+### LeetCode  
 https://leetcode.com/PriyatoshKumar
 
-### CodeChef
+### CodeChef  
 https://www.codechef.com/users/cse23_b0101148
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Skills
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,java,html,css"/>
+<img src="https://skillicons.dev/icons?i=js,java,html,css" />
 </p>
 
-### MERN
+### MERN Stack
 <p>
-<img src="https://skillicons.dev/icons?i=react,node.js,express"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
 ### Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 </p>
 
 ---
@@ -65,11 +73,13 @@ https://www.codechef.com/users/cse23_b0101148
 # 🚀 Projects
 
 ## 📚 AceStudy – Educational Platform
+
 Full stack study platform with role-based dashboards.
 
-Tech Stack: MERN
+**Tech Stack:** MERN
 
 Features:
+
 - Student / Faculty / Admin dashboards
 - Study resources & previous year papers
 - Secure REST APIs
@@ -81,7 +91,7 @@ Features:
 
 ## 💬 Talkon – Real-Time Chat App
 
-Tech Stack: MERN + Socket.io
+**Tech Stack:** MERN + Socket.io
 
 Features:
 
@@ -94,22 +104,17 @@ Features:
 
 ---
 
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=priyatoshkumarshahi&theme=tokyonight"/>
-
 </p>
-
-
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://linkedin.com/in/priyatoshkumarshahi">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -131,4 +136,4 @@ Features:
 
 I love building **real-world applications that people actually use.**
 
-Code. Build. Learn. Repeat 🚀
+Code • Build • Learn • Repeat 🚀
