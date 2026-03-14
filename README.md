@@ -1,131 +1,147 @@
 <h1 align="center">Hi 👋, I'm Priyatosh Kumar</h1>
+<h3 align="center">Full Stack Developer • MERN Stack • Problem Solver</h3>
+<h4 align="center">Building scalable web applications and learning modern technologies 🚀</h4>
 
-<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver 🚀</h3>
-
-
----
+<div align="center">
+<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Priyatosh" width="200px"/>
+</div>
 
 <p align="center">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=Priyatosh&backgroundColor=1e1e2e" width="160"/>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=priyatoshkumarshahi&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=priyatoshkumarshahi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 B.Tech CSE @ **ABES Engineering College**
-
-💻 Full Stack Developer (MERN Stack)
-
-⚡ Passionate about building **scalable web apps & real-time systems**
-
-🌱 Currently learning **Advanced React, Backend Scaling & System Design**
-
-📫 Email: **priytoshshahi90@gmail.com**
-
----
-
-# 🚀 Coding Profiles
-
-### LeetCode  
-https://leetcode.com/PriyatoshKumar
-
-### CodeChef  
-https://www.codechef.com/users/cse23_b0101148
-
----
-
-# 🛠 Skills
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,html,css" />
-</p>
-
-### MERN Stack
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-</p>
+- 🎓 B.Tech **Computer Science Engineering** — ABES Engineering College
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- ⚡ Interested in **Web Development, Real-Time Applications and System Design**
+- 🌱 Currently exploring **Advanced React.js and Backend Development**
+- 📫 Reach me at **priytoshshahi90@gmail.com**
 
 ---
 
 # 🚀 Projects
 
-## 📚 AceStudy – Educational Platform
+<table>
+<tr>
+<td width="50%">
 
-Full stack study platform with role-based dashboards.
+### 📚 AceStudy
+A full-stack educational platform built with MERN stack.
 
-**Tech Stack:** MERN
-
-Features:
-
-- Student / Faculty / Admin dashboards
-- Study resources & previous year papers
-- Secure REST APIs
-- Dynamic React components
+Features
+- Role-based dashboards (Student / Faculty / Admin)
+- Centralized resource library for notes and PYQs
+- REST APIs for secure communication
+- Dynamic reusable React components
 
 🔗 https://acestudy.onrender.com/
 
----
+</td>
 
-## 💬 Talkon – Real-Time Chat App
+<td width="50%">
 
-**Tech Stack:** MERN + Socket.io
+### 💬 Talkon
+Real-time chat application using **Socket.io**.
 
-Features:
-
-- Real time messaging
+Features
+- One-to-one and group messaging
 - JWT authentication
-- One-to-one & group chat
-- Responsive UI
+- Secure login system
+- Fully responsive UI
 
 🔗 https://talkon-m15q.onrender.com/
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🔥 GitHub Streak
+# 💻 Technical Skills
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=priyatoshkumarshahi&theme=tokyonight"/>
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=javascript,java,html,css" />
+
+### MERN Stack
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+
+---
+
+# 🧑‍💻 Experience
+
+### Frontend Developer — The Indian Vidyarthi
+
+- Developed responsive web pages using **HTML, CSS, JavaScript and React**
+- Improved website performance and accessibility
+- Worked on enhancing user experience across devices
+
+---
+
+# 🤝 Community Involvement
+
+### Google Developer Groups ABESEC — Technical Coordinator
+Worked with the development team in organizing tech events, workshops and hackathons.
+
+### CodeChef ABESEC — Technical Coordinator
+Contributed to development of web solutions for competitive programming events.
+
+---
+
+# 🏅 Achievements
+
+- 🎯 **Hacktoberfest Contributor**
+- 🌱 Open Source Participant
+
+[![Holopin badges](https://holopin.me/priyatoshkumarshahi)](https://www.holopin.io/@priyatoshkumarshahi)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=priyatoshkumarshahi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyatoshkumarshahi&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyatoshkumarshahi&theme=tokyonight"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyatoshkumarshahi&theme=tokyo-night"/>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-
 <a href="https://linkedin.com/in/priyatoshkumarshahi">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:priytoshshahi90@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/priyatoshkumarshahi">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 ---
 
-# ⚡ Fun Fact
+💡 *I enjoy building real world applications and continuously improving my development skills.*
 
-I love building **real-world applications that people actually use.**
-
-Code • Build • Learn • Repeat 🚀
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
