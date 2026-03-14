@@ -3,7 +3,7 @@
 <h4 align="center">Building scalable web applications and learning modern technologies 🚀</h4>
 
 <div align="center">
-<img src="https://img.freepik.com/premium-photo/web-developer-digital-avatar-generative-ai_934475-9147.jpg?w=2000" width="200px"/>
+<img src="https://png.pngtree.com/png-clipart/20231109/original/pngtree-programmer-it-developer-png-image_13520483.png" width="200px"/>
 
 </div>
 
