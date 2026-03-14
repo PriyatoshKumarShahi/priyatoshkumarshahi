@@ -3,7 +3,7 @@
 <h4 align="center">Building scalable web applications and learning modern technologies 🚀</h4>
 
 <div align="center">
-<img src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7595.jpg" width="200px"/>
+<img src="download (3).png" width="200px"/>
 
 </div>
 
