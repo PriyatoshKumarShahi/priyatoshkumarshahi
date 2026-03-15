@@ -13,11 +13,11 @@
 
 ---
 
-- 🎓 B.Tech **Computer Science Engineering** — ABES Engineering College
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- ⚡ Interested in **Web Development, Real-Time Applications and System Design**
-- 🌱 Currently exploring **Advanced React.js and Backend Development**
-- 📫 Reach me at **priytoshshahi90@gmail.com**
+- B.Tech **Computer Science Engineering** — ABES Engineering College
+- Full Stack Developer specializing in **MERN Stack**
+- Interested in **Web Development, Real-Time Applications and System Design**
+- Currently exploring **Advanced React.js and Backend Development**
+- Reach me at **priytoshshahi90@gmail.com**
 
 ---
 
